@@ -33,7 +33,7 @@ const Food = () => {
           <button onClick={() => setArea("canadian")} className='px-5 py-2 bg-blue-600 rounded-lg'>
             Canadian
           </button>
-          <button onClick={() => setArea("American")} className='px-5 py-2 bg-blue-600 rounded-lg'>
+          <button onClick={() => setArea("Americans")} className='px-5 py-2 bg-blue-600 rounded-lg'>
             American
           </button>
           <button onClick={() => setArea("thai")} className='px-5 py-2 bg-blue-600 rounded-lg'>
